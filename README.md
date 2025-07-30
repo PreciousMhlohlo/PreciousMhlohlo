@@ -18,6 +18,20 @@ Welcome to my GitHub profile! I'm passionate about technology, innovation, and u
 - 🤖 RAG Chatbots and Voice-to-Text Interfaces
 - 📊 AI Portfolio integrating multiple AI technologies
 
+### 💻 Tech Stack
+ 
+**Frontend:**  
+`HTML5` `CSS3` `JavaScript` `React` `Next.js` `FlutterFlow`  
+ 
+**Backend & APIs:**  
+`Node.js` `Python` `Firebase` `Express.js` `Flask` `REST APIs` `Gemini API` `OpenAI`  
+ 
+**Databases & Cloud:**  
+`MySQL` `PostgreSQL` `Firebase Firestore` `Google Cloud` `Azure`  
+ 
+**AI & ML Tools:**  
+`Gemini` `OpenAI` `Stability AI` `LangChain` `AIF360` `Pandas` `Scikit-learn`  
+
 ### 🤝 Let's Collaborate!
 I'm always open to connecting with others passionate about AI, IT support, or impactful technology.
 
@@ -32,4 +46,4 @@ I’m driven by a passion for learning and a goal to support my family through t
 
 Thanks for stopping by! ⭐
 
--->
+
