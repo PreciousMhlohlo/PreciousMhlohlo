@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi there 👋 I'm Precious Mhlohlo
 
-<!--
-**PreciousMhlohlo/PreciousMhlohlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about technology, innovation, and using AI to solve real-world problems.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 IT System Support NQF 5 graduate from Speccon
+- 💼 Currently an IT Support intern at CAPACITI, building AI-powered solutions
+- 🌍 Based in South Africa 🇿🇦
+- 🔧 Skilled in troubleshooting, system support, and learning prompt engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🌱 Currently Learning
+- 🧠 Generative AI (OpenAI API, prompt engineering)
+- 💻 No-code development with Bubble.io
+- ⚙️ End-to-End AI System Architecture
+
+### 💡 Projects I'm Working On
+- ✨ Custom AI Content Generator
+- 🤖 RAG Chatbots and Voice-to-Text Interfaces
+- 📊 AI Portfolio integrating multiple AI technologies
+
+### 🤝 Let's Collaborate!
+I'm always open to connecting with others passionate about AI, IT support, or impactful technology.
+
+### 📫 How to Reach Me
+- Email: mhlohlop@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/nosibusiso-mhlohlo-8a73b8180/)
+
+### ⚡ Fun Fact
+I’m driven by a passion for learning and a goal to support my family through tech innovation.
+
+---
+
+Thanks for stopping by! ⭐
+
 -->
