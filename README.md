@@ -3,10 +3,20 @@
 Welcome to my GitHub profile! I'm passionate about technology, innovation, and using AI to solve real-world problems.
 
 ### 🚀 About Me
-- 🎓 IT System Support NQF 5 graduate from Speccon
-- 💼 Currently an IT Support intern at CAPACITI, building AI-powered solutions
+I'm an aspiring **AI Engineer** with a passion for building smart, scalable, and ethical AI solutions. My bootcamp experience at CapaCiti equipped me with hands-on skills in:
+- Machine Learning (Supervised, Unsupervised, Reinforcement Learning)
+- Deep Learning (TensorFlow, PyTorch)
+- Generative AI & NLP (OpenAI, ChatGPT)
+- Computer Vision & Anomaly Detection
+- Cloud Deployment (Google Cloud, Azure, IBM Cloud)
+- Python Programming, Data Science (Pandas, NumPy, Jupyter)
+- UI Design, API Integration, OOP, SDLC
+- Ethical AI, Risk Analysis & Compliance
+ 
+🎓 IT System Support NQF 5 graduate from Speccon
+- 🔧 Skilled in troubleshooting, system support, and prompt engineering
+
 - 🌍 Based in South Africa 🇿🇦
-- 🔧 Skilled in troubleshooting, system support, and learning prompt engineering
 
 ### 🌱 Currently Learning
 - 🧠 Generative AI (OpenAI API, prompt engineering)
